@@ -1,7 +1,7 @@
 import discord
 
 client = discord.Client()
-token = 'NTQ3OTY3MjU1OTg0NjAzMTM2.D0-jRA.ENOZ0BLgASrMTdvRhTbWjgSKSPE'
+token = ''
 version = 'v0'
 
 @client.event
